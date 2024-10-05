@@ -14,7 +14,7 @@ const allowedRoles = ['admin', 'userR'];
 
 //object of the client with role specified in the 'role' attribute
 let client = {
-  name: 'Anurag',
+  name: 'Avneet',
   gender: 'Male',
   role: 'user'
 }
